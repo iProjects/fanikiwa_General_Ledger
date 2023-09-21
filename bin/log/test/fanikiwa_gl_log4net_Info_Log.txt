@@ -1,0 +1,4980 @@
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [27/02/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-02-27 19:50:49,976
+ Time Elapsed: 10739 milliseconds
+ Thread Id: 4264
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [27/02/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:29:02,962
+ Time Elapsed: 40 milliseconds
+ Thread Id: 15072
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:29:03,714
+ Time Elapsed: 792 milliseconds
+ Thread Id: 15072
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [27/02/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,032
+ Time Elapsed: 42 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,087
+ Time Elapsed: 98 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [28/02/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,094
+ Time Elapsed: 105 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,097
+ Time Elapsed: 108 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [01/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,100
+ Time Elapsed: 111 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,104
+ Time Elapsed: 115 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [02/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,106
+ Time Elapsed: 117 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,109
+ Time Elapsed: 120 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [03/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,112
+ Time Elapsed: 123 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,116
+ Time Elapsed: 127 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [04/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,119
+ Time Elapsed: 130 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,122
+ Time Elapsed: 133 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [05/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,125
+ Time Elapsed: 136 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,127
+ Time Elapsed: 138 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [06/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,129
+ Time Elapsed: 140 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,132
+ Time Elapsed: 143 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [07/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,135
+ Time Elapsed: 146 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,139
+ Time Elapsed: 150 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [08/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,141
+ Time Elapsed: 152 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,144
+ Time Elapsed: 155 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [09/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,148
+ Time Elapsed: 159 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,150
+ Time Elapsed: 161 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [10/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,153
+ Time Elapsed: 164 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,156
+ Time Elapsed: 167 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [11/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,159
+ Time Elapsed: 170 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,162
+ Time Elapsed: 173 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [12/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,166
+ Time Elapsed: 177 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,169
+ Time Elapsed: 180 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [13/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,172
+ Time Elapsed: 183 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,175
+ Time Elapsed: 186 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [14/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,178
+ Time Elapsed: 189 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,182
+ Time Elapsed: 193 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [15/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,184
+ Time Elapsed: 195 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,187
+ Time Elapsed: 198 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [16/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,189
+ Time Elapsed: 200 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,193
+ Time Elapsed: 204 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [17/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,196
+ Time Elapsed: 207 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,199
+ Time Elapsed: 210 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [18/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,202
+ Time Elapsed: 213 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,205
+ Time Elapsed: 216 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [19/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,208
+ Time Elapsed: 219 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,211
+ Time Elapsed: 222 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [20/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,214
+ Time Elapsed: 225 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,217
+ Time Elapsed: 228 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [21/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,221
+ Time Elapsed: 232 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,223
+ Time Elapsed: 234 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [22/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,226
+ Time Elapsed: 237 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,230
+ Time Elapsed: 241 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [23/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,233
+ Time Elapsed: 244 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,236
+ Time Elapsed: 247 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [24/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,238
+ Time Elapsed: 249 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,241
+ Time Elapsed: 252 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [25/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,244
+ Time Elapsed: 255 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,247
+ Time Elapsed: 258 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [26/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,250
+ Time Elapsed: 261 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,253
+ Time Elapsed: 264 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [27/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,257
+ Time Elapsed: 268 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,260
+ Time Elapsed: 271 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [28/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,266
+ Time Elapsed: 277 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,270
+ Time Elapsed: 281 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [29/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,273
+ Time Elapsed: 284 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,281
+ Time Elapsed: 292 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [30/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,297
+ Time Elapsed: 308 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,300
+ Time Elapsed: 311 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [31/03/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,317
+ Time Elapsed: 328 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,334
+ Time Elapsed: 345 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [01/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,364
+ Time Elapsed: 375 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,376
+ Time Elapsed: 387 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [02/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,380
+ Time Elapsed: 391 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,387
+ Time Elapsed: 398 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [03/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,390
+ Time Elapsed: 401 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,393
+ Time Elapsed: 404 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [04/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,397
+ Time Elapsed: 408 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,400
+ Time Elapsed: 411 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [05/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,404
+ Time Elapsed: 415 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,407
+ Time Elapsed: 418 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [06/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,410
+ Time Elapsed: 421 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,413
+ Time Elapsed: 424 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [07/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,419
+ Time Elapsed: 430 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,424
+ Time Elapsed: 435 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [08/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,427
+ Time Elapsed: 438 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,430
+ Time Elapsed: 441 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [09/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,434
+ Time Elapsed: 445 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,437
+ Time Elapsed: 448 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [10/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,440
+ Time Elapsed: 451 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,443
+ Time Elapsed: 454 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [11/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,447
+ Time Elapsed: 458 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,450
+ Time Elapsed: 461 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [12/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,453
+ Time Elapsed: 464 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,457
+ Time Elapsed: 468 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [13/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,464
+ Time Elapsed: 475 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,474
+ Time Elapsed: 485 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [14/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,476
+ Time Elapsed: 487 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,479
+ Time Elapsed: 490 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [15/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,482
+ Time Elapsed: 493 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,485
+ Time Elapsed: 496 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [16/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,489
+ Time Elapsed: 500 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,492
+ Time Elapsed: 503 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [17/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,498
+ Time Elapsed: 509 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,501
+ Time Elapsed: 512 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [18/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,505
+ Time Elapsed: 516 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,508
+ Time Elapsed: 519 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [19/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,512
+ Time Elapsed: 523 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,516
+ Time Elapsed: 527 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [20/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,519
+ Time Elapsed: 530 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,522
+ Time Elapsed: 533 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [21/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,524
+ Time Elapsed: 535 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,527
+ Time Elapsed: 538 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [22/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,529
+ Time Elapsed: 540 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,532
+ Time Elapsed: 543 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [23/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,534
+ Time Elapsed: 545 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,537
+ Time Elapsed: 548 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [24/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,540
+ Time Elapsed: 551 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,542
+ Time Elapsed: 553 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [25/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,545
+ Time Elapsed: 556 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,547
+ Time Elapsed: 558 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [26/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,550
+ Time Elapsed: 561 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,552
+ Time Elapsed: 563 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [27/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,555
+ Time Elapsed: 566 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,557
+ Time Elapsed: 568 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [28/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,561
+ Time Elapsed: 572 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,563
+ Time Elapsed: 574 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [29/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,566
+ Time Elapsed: 577 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,568
+ Time Elapsed: 579 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [30/04/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,570
+ Time Elapsed: 581 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,573
+ Time Elapsed: 584 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [01/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,576
+ Time Elapsed: 587 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,579
+ Time Elapsed: 590 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [02/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,584
+ Time Elapsed: 595 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,586
+ Time Elapsed: 597 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [03/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,588
+ Time Elapsed: 599 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,591
+ Time Elapsed: 602 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [04/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,593
+ Time Elapsed: 604 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,596
+ Time Elapsed: 607 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [05/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,598
+ Time Elapsed: 609 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,600
+ Time Elapsed: 611 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [06/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,603
+ Time Elapsed: 614 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,606
+ Time Elapsed: 617 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [07/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,608
+ Time Elapsed: 619 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,611
+ Time Elapsed: 622 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [08/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,613
+ Time Elapsed: 624 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,615
+ Time Elapsed: 626 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [09/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,618
+ Time Elapsed: 629 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,620
+ Time Elapsed: 631 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [10/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,623
+ Time Elapsed: 634 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,625
+ Time Elapsed: 636 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [11/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,627
+ Time Elapsed: 638 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,630
+ Time Elapsed: 641 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [12/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,632
+ Time Elapsed: 643 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,635
+ Time Elapsed: 646 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [13/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,637
+ Time Elapsed: 648 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,641
+ Time Elapsed: 652 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [14/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,644
+ Time Elapsed: 655 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,647
+ Time Elapsed: 658 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [15/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,649
+ Time Elapsed: 660 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,652
+ Time Elapsed: 663 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [16/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,654
+ Time Elapsed: 665 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,660
+ Time Elapsed: 671 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [17/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,663
+ Time Elapsed: 674 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,665
+ Time Elapsed: 676 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [18/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,668
+ Time Elapsed: 679 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,670
+ Time Elapsed: 681 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [19/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,674
+ Time Elapsed: 685 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,676
+ Time Elapsed: 687 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [20/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,679
+ Time Elapsed: 690 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,681
+ Time Elapsed: 692 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [21/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,684
+ Time Elapsed: 695 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,686
+ Time Elapsed: 697 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [22/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,688
+ Time Elapsed: 699 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,691
+ Time Elapsed: 702 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [23/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,693
+ Time Elapsed: 704 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,696
+ Time Elapsed: 707 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [24/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,698
+ Time Elapsed: 709 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,701
+ Time Elapsed: 712 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [25/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,703
+ Time Elapsed: 714 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,706
+ Time Elapsed: 717 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [26/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,708
+ Time Elapsed: 719 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,710
+ Time Elapsed: 721 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [27/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,713
+ Time Elapsed: 724 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,715
+ Time Elapsed: 726 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [28/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,718
+ Time Elapsed: 729 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,720
+ Time Elapsed: 731 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [29/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,722
+ Time Elapsed: 733 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,725
+ Time Elapsed: 736 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [30/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,727
+ Time Elapsed: 738 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,730
+ Time Elapsed: 741 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [31/05/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,732
+ Time Elapsed: 743 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,735
+ Time Elapsed: 746 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [01/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,737
+ Time Elapsed: 748 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,740
+ Time Elapsed: 751 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [02/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,742
+ Time Elapsed: 753 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,745
+ Time Elapsed: 756 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [03/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,747
+ Time Elapsed: 758 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,750
+ Time Elapsed: 761 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [04/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,752
+ Time Elapsed: 763 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,755
+ Time Elapsed: 766 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [05/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,757
+ Time Elapsed: 768 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,760
+ Time Elapsed: 771 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [06/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,764
+ Time Elapsed: 775 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,768
+ Time Elapsed: 779 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [07/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,772
+ Time Elapsed: 783 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,776
+ Time Elapsed: 787 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [08/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,780
+ Time Elapsed: 791 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,784
+ Time Elapsed: 795 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [09/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,789
+ Time Elapsed: 800 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,791
+ Time Elapsed: 802 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [10/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,794
+ Time Elapsed: 805 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,796
+ Time Elapsed: 807 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [11/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,799
+ Time Elapsed: 810 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,801
+ Time Elapsed: 812 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [12/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,803
+ Time Elapsed: 814 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,806
+ Time Elapsed: 817 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [13/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,815
+ Time Elapsed: 826 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,824
+ Time Elapsed: 835 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [14/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,830
+ Time Elapsed: 841 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,833
+ Time Elapsed: 844 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [15/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,836
+ Time Elapsed: 847 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,840
+ Time Elapsed: 851 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [16/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,843
+ Time Elapsed: 854 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,846
+ Time Elapsed: 857 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [17/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,849
+ Time Elapsed: 860 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,852
+ Time Elapsed: 863 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [18/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,854
+ Time Elapsed: 865 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,857
+ Time Elapsed: 868 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [19/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,859
+ Time Elapsed: 870 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,863
+ Time Elapsed: 874 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [20/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,865
+ Time Elapsed: 876 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,868
+ Time Elapsed: 879 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [21/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,871
+ Time Elapsed: 882 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,874
+ Time Elapsed: 885 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [22/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,877
+ Time Elapsed: 888 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,881
+ Time Elapsed: 892 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [23/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,884
+ Time Elapsed: 895 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,887
+ Time Elapsed: 898 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [24/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,890
+ Time Elapsed: 901 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,893
+ Time Elapsed: 904 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [25/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,896
+ Time Elapsed: 907 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,899
+ Time Elapsed: 910 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [26/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,902
+ Time Elapsed: 913 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,905
+ Time Elapsed: 916 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [27/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,907
+ Time Elapsed: 918 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,910
+ Time Elapsed: 921 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [28/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,913
+ Time Elapsed: 924 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,915
+ Time Elapsed: 926 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [29/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,918
+ Time Elapsed: 929 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,921
+ Time Elapsed: 932 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [30/06/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,924
+ Time Elapsed: 935 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,927
+ Time Elapsed: 938 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [01/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,930
+ Time Elapsed: 941 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,932
+ Time Elapsed: 943 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [02/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,935
+ Time Elapsed: 946 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,938
+ Time Elapsed: 949 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [03/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,940
+ Time Elapsed: 951 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,943
+ Time Elapsed: 954 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [04/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,946
+ Time Elapsed: 957 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,949
+ Time Elapsed: 960 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [05/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,952
+ Time Elapsed: 963 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,955
+ Time Elapsed: 966 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [06/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,958
+ Time Elapsed: 969 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,961
+ Time Elapsed: 972 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [07/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,963
+ Time Elapsed: 974 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,966
+ Time Elapsed: 977 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [08/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,969
+ Time Elapsed: 980 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,971
+ Time Elapsed: 982 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [09/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,973
+ Time Elapsed: 984 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,976
+ Time Elapsed: 987 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [10/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,978
+ Time Elapsed: 989 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,981
+ Time Elapsed: 992 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [11/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,983
+ Time Elapsed: 994 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,985
+ Time Elapsed: 996 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [12/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,987
+ Time Elapsed: 998 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,991
+ Time Elapsed: 1002 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [13/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,994
+ Time Elapsed: 1005 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:05,996
+ Time Elapsed: 1007 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [14/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:05,999
+ Time Elapsed: 1010 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,002
+ Time Elapsed: 1013 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [15/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,005
+ Time Elapsed: 1016 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,008
+ Time Elapsed: 1019 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [16/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,010
+ Time Elapsed: 1021 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,013
+ Time Elapsed: 1024 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [17/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,019
+ Time Elapsed: 1030 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,026
+ Time Elapsed: 1037 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [18/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,029
+ Time Elapsed: 1040 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,032
+ Time Elapsed: 1043 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [19/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,034
+ Time Elapsed: 1045 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,037
+ Time Elapsed: 1048 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [20/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,039
+ Time Elapsed: 1050 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,042
+ Time Elapsed: 1053 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [21/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,044
+ Time Elapsed: 1055 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,047
+ Time Elapsed: 1058 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [22/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,049
+ Time Elapsed: 1060 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,052
+ Time Elapsed: 1063 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [23/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,055
+ Time Elapsed: 1066 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,057
+ Time Elapsed: 1068 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [24/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,059
+ Time Elapsed: 1070 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,062
+ Time Elapsed: 1073 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [25/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,065
+ Time Elapsed: 1076 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,067
+ Time Elapsed: 1078 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [26/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,076
+ Time Elapsed: 1087 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,081
+ Time Elapsed: 1092 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [27/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,084
+ Time Elapsed: 1095 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,087
+ Time Elapsed: 1098 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [28/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,090
+ Time Elapsed: 1101 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,092
+ Time Elapsed: 1103 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [29/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,094
+ Time Elapsed: 1105 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,097
+ Time Elapsed: 1108 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [30/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,100
+ Time Elapsed: 1111 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,103
+ Time Elapsed: 1114 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [31/07/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,105
+ Time Elapsed: 1116 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,107
+ Time Elapsed: 1118 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [01/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,110
+ Time Elapsed: 1121 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,113
+ Time Elapsed: 1124 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [02/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,115
+ Time Elapsed: 1126 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,118
+ Time Elapsed: 1129 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [03/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,120
+ Time Elapsed: 1131 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,122
+ Time Elapsed: 1133 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [04/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,124
+ Time Elapsed: 1135 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,127
+ Time Elapsed: 1138 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [05/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,129
+ Time Elapsed: 1140 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,131
+ Time Elapsed: 1142 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [06/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,134
+ Time Elapsed: 1145 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,136
+ Time Elapsed: 1147 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [07/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,138
+ Time Elapsed: 1149 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,141
+ Time Elapsed: 1152 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [08/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,143
+ Time Elapsed: 1154 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,146
+ Time Elapsed: 1157 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [09/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,148
+ Time Elapsed: 1159 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,151
+ Time Elapsed: 1162 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [10/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,153
+ Time Elapsed: 1164 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,155
+ Time Elapsed: 1166 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [11/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,158
+ Time Elapsed: 1169 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,160
+ Time Elapsed: 1171 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [12/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,163
+ Time Elapsed: 1174 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,165
+ Time Elapsed: 1176 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [13/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,167
+ Time Elapsed: 1178 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,170
+ Time Elapsed: 1181 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [14/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,172
+ Time Elapsed: 1183 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,175
+ Time Elapsed: 1186 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [15/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,177
+ Time Elapsed: 1188 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,180
+ Time Elapsed: 1191 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [16/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,183
+ Time Elapsed: 1194 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,185
+ Time Elapsed: 1196 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [17/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,188
+ Time Elapsed: 1199 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,191
+ Time Elapsed: 1202 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [18/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,193
+ Time Elapsed: 1204 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,196
+ Time Elapsed: 1207 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [19/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,199
+ Time Elapsed: 1210 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,202
+ Time Elapsed: 1213 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [20/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,205
+ Time Elapsed: 1216 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,207
+ Time Elapsed: 1218 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [21/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,210
+ Time Elapsed: 1221 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,212
+ Time Elapsed: 1223 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [22/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,215
+ Time Elapsed: 1226 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,217
+ Time Elapsed: 1228 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [23/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,219
+ Time Elapsed: 1230 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,221
+ Time Elapsed: 1232 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [24/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,223
+ Time Elapsed: 1234 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,225
+ Time Elapsed: 1236 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [25/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,228
+ Time Elapsed: 1239 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,230
+ Time Elapsed: 1241 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [26/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,233
+ Time Elapsed: 1244 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,236
+ Time Elapsed: 1247 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [27/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,238
+ Time Elapsed: 1249 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,240
+ Time Elapsed: 1251 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [28/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,242
+ Time Elapsed: 1253 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,245
+ Time Elapsed: 1256 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [29/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,247
+ Time Elapsed: 1258 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,250
+ Time Elapsed: 1261 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [30/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,252
+ Time Elapsed: 1263 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,255
+ Time Elapsed: 1266 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [31/08/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,257
+ Time Elapsed: 1268 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,260
+ Time Elapsed: 1271 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [01/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,262
+ Time Elapsed: 1273 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,266
+ Time Elapsed: 1277 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [02/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,270
+ Time Elapsed: 1281 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,273
+ Time Elapsed: 1284 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [03/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,277
+ Time Elapsed: 1288 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,282
+ Time Elapsed: 1293 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [04/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,286
+ Time Elapsed: 1297 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,289
+ Time Elapsed: 1300 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [05/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,297
+ Time Elapsed: 1308 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,300
+ Time Elapsed: 1311 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [06/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,303
+ Time Elapsed: 1314 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,306
+ Time Elapsed: 1317 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [07/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,308
+ Time Elapsed: 1319 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,311
+ Time Elapsed: 1322 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [08/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,313
+ Time Elapsed: 1324 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,316
+ Time Elapsed: 1327 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [09/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,318
+ Time Elapsed: 1329 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,321
+ Time Elapsed: 1332 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [10/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,332
+ Time Elapsed: 1343 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,343
+ Time Elapsed: 1354 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [11/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,348
+ Time Elapsed: 1359 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,352
+ Time Elapsed: 1363 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [12/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,357
+ Time Elapsed: 1368 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,362
+ Time Elapsed: 1373 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [13/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,365
+ Time Elapsed: 1376 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,368
+ Time Elapsed: 1379 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [14/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,371
+ Time Elapsed: 1382 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,374
+ Time Elapsed: 1385 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [15/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,376
+ Time Elapsed: 1387 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,380
+ Time Elapsed: 1391 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [16/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,382
+ Time Elapsed: 1393 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,386
+ Time Elapsed: 1397 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [17/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,389
+ Time Elapsed: 1400 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,393
+ Time Elapsed: 1404 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [18/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,396
+ Time Elapsed: 1407 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,398
+ Time Elapsed: 1409 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [19/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,401
+ Time Elapsed: 1412 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,404
+ Time Elapsed: 1415 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing started for [20/09/2023 19:50:49 PM]
+ Method: RunDiary
+ Date: 2023-09-21 12:36:06,407
+ Time Elapsed: 1418 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 59
+ Location: DiaryProcessing.DiaryPostingComponent.RunDiary(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:59)
+
+-------------------------------------------------------------- 
+								   
+
+ Message: Processing [0] transactions
+ Method: RunSTOs
+ Date: 2023-09-21 12:36:06,410
+ Time Elapsed: 1421 milliseconds
+ Thread Id: 640
+ Level: INFO
+ Line: 101
+ Location: DiaryProcessing.DiaryPostingComponent.RunSTOs(d:\wakxpx\csharp\visualstudio\2013\fanikiwa peer to peer lending\fanikiwaGL\Apps\DiaryProcessing\DiaryPostingComponent.cs:101)
+
